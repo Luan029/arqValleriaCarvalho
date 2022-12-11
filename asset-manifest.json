@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/arqValleriaCarvalho/static/css/main.e0b573fc.css",
-    "main.js": "/arqValleriaCarvalho/static/js/main.23f6816b.js",
+    "main.css": "/arqValleriaCarvalho/static/css/main.36494c92.css",
+    "main.js": "/arqValleriaCarvalho/static/js/main.aaed6c28.js",
     "static/js/787.6e0e637d.chunk.js": "/arqValleriaCarvalho/static/js/787.6e0e637d.chunk.js",
     "index.html": "/arqValleriaCarvalho/index.html",
-    "main.e0b573fc.css.map": "/arqValleriaCarvalho/static/css/main.e0b573fc.css.map",
-    "main.23f6816b.js.map": "/arqValleriaCarvalho/static/js/main.23f6816b.js.map",
+    "main.36494c92.css.map": "/arqValleriaCarvalho/static/css/main.36494c92.css.map",
+    "main.aaed6c28.js.map": "/arqValleriaCarvalho/static/js/main.aaed6c28.js.map",
     "787.6e0e637d.chunk.js.map": "/arqValleriaCarvalho/static/js/787.6e0e637d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0b573fc.css",
-    "static/js/main.23f6816b.js"
+    "static/css/main.36494c92.css",
+    "static/js/main.aaed6c28.js"
   ]
 }
