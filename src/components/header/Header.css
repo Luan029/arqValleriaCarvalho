@@ -1,10 +1,10 @@
 header{
     background-color: #1F2024;
-    height: 400px;
+    height: 100vh;
     position: relative;
     width: 100vw;
 }
-.titulo{
+.logo{
     background-color: #4B4952;
     position: absolute;
     top: 5px;

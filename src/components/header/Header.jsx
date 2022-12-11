@@ -6,10 +6,10 @@ export default props =>(
         <header>
             <h1>Valléria Carvalho</h1>
             <h3>Portifólio de Arquitetura</h3>
-            <div className="titulo">
+            <div className="logo">
                 
             </div>
-
+            
         </header>
     </React.Fragment>
 )
